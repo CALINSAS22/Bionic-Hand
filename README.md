@@ -3,7 +3,7 @@ Folder-ul "Mana" contine piesele 3D folosite pentru alcatuirea protezei.
 Folder-ul "Imagini" contine poze facute protezei cat si senzorului.
 
     Cod:
-    #include <Servo.h>
+ #include <Servo.h>
  Servo mare;//min=15, max=160
  Servo mic;//min=10, max=85
  Servo mijlociu;//min=10, max=120
